@@ -87,11 +87,12 @@
 | [Live_kit_Friday](https://github.com/Prathamsimgh/Live_kit_Friday) | Low-latency AI voice + vision assistant (LiveKit, Gemini) |
 | [Scientific-calculator](https://github.com/Prathamsimgh/Scientific-calculator) | Scientific calculator (React + Vite, mathjs) — [live demo](https://sc-seven-rust.vercel.app) |
 
-### Currently
+### Currently Building
 
-- Solving one DSA problem every day — [follow the streak](https://github.com/Prathamsimgh/100-days-of-dsa)
-- Preparing for **GATE 2027 (CS)**
-- Open to freelance full-stack / QA automation / AI evaluation work
+- **[live-transcribe](https://github.com/Prathamsimgh/live-transcribe)** — real-time speech-to-text desktop app (faster-whisper + Silero VAD, runs on GPU)
+- **[dupscan](https://github.com/Prathamsimgh/dupscan)** — multithreaded duplicate-file finder written in Rust
+- **[100-days-of-dsa](https://github.com/Prathamsimgh/100-days-of-dsa)** — one DSA problem a day, with notes and complexity analysis
+- Preparing for **GATE 2027 (CS)** · Open to freelance full-stack / QA automation / AI evaluation work
 
 ---
 
