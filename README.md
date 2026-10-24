@@ -69,6 +69,14 @@
 
 </div>
 
+### LeetCode
+
+<div align="center">
+
+[![LeetCode Stats](https://leetcard.jacoblin.cool/prathamsingh?theme=dark&font=Baloo%202&ext=heatmap)](https://leetcode.com/u/prathamsingh/)
+
+</div>
+
 ### Contribution Graph
 
 <div align="center">
